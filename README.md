@@ -9,7 +9,7 @@ Existem aqui algumas pequenas modificações, tanto no visual quanto no comporta
 
 O objetivo é escolher o círculo com a cor correspondente aos valores rgb que são apresentados acima dos círculos.
 
-As cores se alteram a cada 5 segundos, mas também podem ser alteradas ao clicar no botão Próxima cor.
+As cores se alteram a cada 4 segundos, mas também podem ser alteradas ao clicar no botão Alterar cores.
 
 Para cada acerto são adicionados 3 pontos ao contador e para cada erro é subtraído 1 ponto, este contador pode ser zerado ao clicar no botão Zerar os Pontos.  
 
