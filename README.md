@@ -13,4 +13,4 @@ As cores se alteram a cada 5 segundos, mas também podem ser alteradas ao clicar
 
 Para cada acerto são adicionados 3 pontos ao contador e para cada erro é subtraído 1 ponto, este contador pode ser zerado ao clicar no botão Zerar os Pontos.  
 
-Link para visualizar o jogo.
+Link para visualizar o jogo. https://marcuswittho.github.io/try-color.github.io/.
